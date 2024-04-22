@@ -1,0 +1,11 @@
+C:\Users\klaas\source\repos\diagnostic médical automatique\DecisionTreeLibrary\bin\Debug\net8.0\DecisionTreeLibrary.deps.json
+C:\Users\klaas\source\repos\diagnostic médical automatique\DecisionTreeLibrary\bin\Debug\net8.0\DecisionTreeLibrary.dll
+C:\Users\klaas\source\repos\diagnostic médical automatique\DecisionTreeLibrary\bin\Debug\net8.0\DecisionTreeLibrary.pdb
+C:\Users\klaas\source\repos\diagnostic médical automatique\DecisionTreeLibrary\obj\Debug\net8.0\DecisionTreeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klaas\source\repos\diagnostic médical automatique\DecisionTreeLibrary\obj\Debug\net8.0\DecisionTreeLibrary.AssemblyInfoInputs.cache
+C:\Users\klaas\source\repos\diagnostic médical automatique\DecisionTreeLibrary\obj\Debug\net8.0\DecisionTreeLibrary.AssemblyInfo.cs
+C:\Users\klaas\source\repos\diagnostic médical automatique\DecisionTreeLibrary\obj\Debug\net8.0\DecisionTreeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\klaas\source\repos\diagnostic médical automatique\DecisionTreeLibrary\obj\Debug\net8.0\DecisionTreeLibrary.dll
+C:\Users\klaas\source\repos\diagnostic médical automatique\DecisionTreeLibrary\obj\Debug\net8.0\refint\DecisionTreeLibrary.dll
+C:\Users\klaas\source\repos\diagnostic médical automatique\DecisionTreeLibrary\obj\Debug\net8.0\DecisionTreeLibrary.pdb
+C:\Users\klaas\source\repos\diagnostic médical automatique\DecisionTreeLibrary\obj\Debug\net8.0\ref\DecisionTreeLibrary.dll

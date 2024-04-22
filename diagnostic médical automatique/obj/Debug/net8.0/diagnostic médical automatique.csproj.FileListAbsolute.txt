@@ -1,0 +1,14 @@
+C:\Users\klaas\source\repos\diagnostic médical automatique\diagnostic médical automatique\bin\Debug\net8.0\diagnostic médical automatique.deps.json
+C:\Users\klaas\source\repos\diagnostic médical automatique\diagnostic médical automatique\bin\Debug\net8.0\diagnostic médical automatique.dll
+C:\Users\klaas\source\repos\diagnostic médical automatique\diagnostic médical automatique\bin\Debug\net8.0\diagnostic médical automatique.pdb
+C:\Users\klaas\source\repos\diagnostic médical automatique\diagnostic médical automatique\obj\Debug\net8.0\diagnostic médical automatique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klaas\source\repos\diagnostic médical automatique\diagnostic médical automatique\obj\Debug\net8.0\diagnostic médical automatique.AssemblyInfoInputs.cache
+C:\Users\klaas\source\repos\diagnostic médical automatique\diagnostic médical automatique\obj\Debug\net8.0\diagnostic médical automatique.AssemblyInfo.cs
+C:\Users\klaas\source\repos\diagnostic médical automatique\diagnostic médical automatique\obj\Debug\net8.0\diagnostic médical automatique.csproj.CoreCompileInputs.cache
+C:\Users\klaas\source\repos\diagnostic médical automatique\diagnostic médical automatique\obj\Debug\net8.0\diagnostic médical automatique.dll
+C:\Users\klaas\source\repos\diagnostic médical automatique\diagnostic médical automatique\obj\Debug\net8.0\refint\diagnostic médical automatique.dll
+C:\Users\klaas\source\repos\diagnostic médical automatique\diagnostic médical automatique\obj\Debug\net8.0\diagnostic médical automatique.pdb
+C:\Users\klaas\source\repos\diagnostic médical automatique\diagnostic médical automatique\obj\Debug\net8.0\ref\diagnostic médical automatique.dll
+C:\Users\klaas\source\repos\diagnostic médical automatique\diagnostic médical automatique\bin\Debug\net8.0\diagnostic médical automatique.exe
+C:\Users\klaas\source\repos\diagnostic médical automatique\diagnostic médical automatique\bin\Debug\net8.0\diagnostic médical automatique.runtimeconfig.json
+C:\Users\klaas\source\repos\diagnostic médical automatique\diagnostic médical automatique\obj\Debug\net8.0\diagnostic médical automatique.genruntimeconfig.cache
